@@ -27,8 +27,6 @@ Hello. This is a compiled list of books and dictionaries that teach the Oromo la
 
 ## Language Overviews
 
-## Language Overviews
-
 | Title | Google Drive Link |
 | --- | --- |
 | Afaan Oromo as Second Language | https://drive.google.com/file/d/1j3I3knWA0IrFAYz1s81qqLtk4RruzKot/view?usp=drive_link |
