@@ -25,6 +25,7 @@ Hello. This is a compiled list of books and dictionaries that teach the Oromo la
 | The Phrase Structures of Ethiopian Oromo | https://drive.google.com/file/d/1gdf5ZItTqqXG8VamCBJUuzhT-TwZ_Z99/view?usp=drive_link |
 | Afaan Oromo Grammar - Oromia Language and Cultural Academy | https://drive.google.com/file/d/1KHzv8r1UmGi8ZyPwpYxtgiU2ukfXXbgm/view?usp=drive_link |
 | Modern Afaan Oromo Grammar | https://drive.google.com/file/d/1fl9UlG4Ssb6USRmxp1A181QPgom493Xt/view?usp=drive_link |
+| Learn to Read and Write Afaan Oromo | https://drive.google.com/file/d/1yfbjqEmEBwa8BtUy6n8pTaQ8ged7GDsT/view?usp=drive_link |
 
 ## Language Overviews
 
