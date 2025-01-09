@@ -23,6 +23,7 @@ Hello. This is a compiled list of books and dictionaries that teach the Oromo la
 | Conditional Expressions in Oromo | https://drive.google.com/file/d/1vf7yqSqmYQmxghfuKyUXs5NaS7TNyNyy/view?usp=drive_link |
 | The Oromo of Wollega | https://drive.google.com/file/d/1MqyZc7CMEswbhe7sLNlrDJ29N_G7hur6/view?usp=drive_link |
 | The Phrase Structures of Ethiopian Oromo | https://drive.google.com/file/d/1gdf5ZItTqqXG8VamCBJUuzhT-TwZ_Z99/view?usp=drive_link |
+| Afaan Oromo Grammar - Oromia Language and Cultural Academy | https://drive.google.com/file/d/1KHzv8r1UmGi8ZyPwpYxtgiU2ukfXXbgm/view?usp=drive_link |
 
 ## Language Overviews
 
