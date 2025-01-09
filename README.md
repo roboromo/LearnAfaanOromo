@@ -24,6 +24,7 @@ Hello. This is a compiled list of books and dictionaries that teach the Oromo la
 | The Oromo of Wollega | https://drive.google.com/file/d/1MqyZc7CMEswbhe7sLNlrDJ29N_G7hur6/view?usp=drive_link |
 | The Phrase Structures of Ethiopian Oromo | https://drive.google.com/file/d/1gdf5ZItTqqXG8VamCBJUuzhT-TwZ_Z99/view?usp=drive_link |
 | Afaan Oromo Grammar - Oromia Language and Cultural Academy | https://drive.google.com/file/d/1KHzv8r1UmGi8ZyPwpYxtgiU2ukfXXbgm/view?usp=drive_link |
+| Modern Afaan Oromo Grammar | https://drive.google.com/file/d/1fl9UlG4Ssb6USRmxp1A181QPgom493Xt/view?usp=drive_link |
 
 ## Language Overviews
 
