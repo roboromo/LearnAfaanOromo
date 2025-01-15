@@ -12,6 +12,8 @@ Hello. This is a compiled list of books and dictionaries that teach the Oromo la
 | A Concise Dictionary of Orma Oromo (Kenyan Oromo) | https://drive.google.com/file/d/1sT70yNO17qdAM5lOxqW6U3uIAkAQ7_9C/view?usp=drive_link |
 | Oromo Dictionary & Phrasebook | https://drive.google.com/file/d/1_OXpEQkGUSCFcgW4rwzGyXi3wyfcGrYA/view?usp=drive_link |
 | Vocabulary of the Galla Language | https://drive.google.com/file/d/1BI8E4v9cBBo3aaHFdMFPlklkzwtviqR8/view?usp=drive_link |
+| Modern Oromo Dictionary_Oromo-English-English-Oromo | https://drive.google.com/file/d/15yT_16AIQoWyY_hHOh47mWsOBKUoZTye/view?usp=drive_link |
+| Oromo-English - English-Oromo Dictionary | https://drive.google.com/file/d/1BqPMa9vsYx7T9deMzTHOUEQ1Ah5y3_AB/view?usp=drive_link |
 
 ## Grammar Guides
 
@@ -26,6 +28,8 @@ Hello. This is a compiled list of books and dictionaries that teach the Oromo la
 | Afaan Oromo Grammar - Oromia Language and Cultural Academy | https://drive.google.com/file/d/1KHzv8r1UmGi8ZyPwpYxtgiU2ukfXXbgm/view?usp=drive_link |
 | Modern Afaan Oromo Grammar | https://drive.google.com/file/d/1fl9UlG4Ssb6USRmxp1A181QPgom493Xt/view?usp=drive_link |
 | Learn to Read and Write Afaan Oromo | https://drive.google.com/file/d/1yfbjqEmEBwa8BtUy6n8pTaQ8ged7GDsT/view?usp=drive_link |
+| Afaan Oromo: A Guide to Speaking The Language of the Oromo People | https://drive.google.com/file/d/1FgRGIdv-1sUZmnfxnJVlt1_9OauwBJBO/view?usp=drive_link |
+
 
 ## Language Overviews
 
@@ -44,3 +48,4 @@ Hello. This is a compiled list of books and dictionaries that teach the Oromo la
 | --- | --- |
 | Oromo Proverbs | https://drive.google.com/file/d/1qiWisxInj7yaLJ3xCmCW_2-MXwmq5VXI/view?usp=drive_link |
 | Priceless Spoken English-Amharic, Oromo, English | https://drive.google.com/file/d/1PvFNg1PHjnMbz8n9zhFu7YSbfRKa7cli/view?usp=drive_link |
+
