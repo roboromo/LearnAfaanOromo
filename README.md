@@ -14,7 +14,7 @@ Hello. This is a compiled list of books and dictionaries that teach the Oromo la
 | Vocabulary of the Galla Language | https://drive.google.com/file/d/1BI8E4v9cBBo3aaHFdMFPlklkzwtviqR8/view?usp=drive_link |
 | Modern Oromo Dictionary_Oromo-English-English-Oromo | https://drive.google.com/file/d/15yT_16AIQoWyY_hHOh47mWsOBKUoZTye/view?usp=drive_link |
 | Oromo-English - English-Oromo Dictionary | https://drive.google.com/file/d/1BqPMa9vsYx7T9deMzTHOUEQ1Ah5y3_AB/view?usp=drive_link |
-
+| English - Oromo Medical Terminology | https://drive.google.com/file/d/1UxkVpjRuiOX2QYFe0wGBZPMAdXtVRgg7/view?usp=drive_link |
 ## Grammar Guides
 
 | Title | Google Drive Link |
