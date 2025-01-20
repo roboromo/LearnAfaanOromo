@@ -49,4 +49,5 @@ Hello. This is a compiled list of books and dictionaries that teach the Oromo la
 | Oromo Proverbs | https://drive.google.com/file/d/1qiWisxInj7yaLJ3xCmCW_2-MXwmq5VXI/view?usp=drive_link |
 | Priceless Spoken English-Amharic, Oromo, English | https://drive.google.com/file/d/1PvFNg1PHjnMbz8n9zhFu7YSbfRKa7cli/view?usp=drive_link |
 | Social Protest And Rebellion In Some Gabbar Songs From Qeellaam Wallaggaa - 1972 | https://drive.google.com/file/d/1ZHF-tlYE-2DHiQtuOugAsVkUwJxJ0C07/view?usp=drive_link | 
+| The Folk-Literature of the Galla of Southern Abyssinia | https://drive.google.com/file/d/1BN5uCYJ4v_kyfdh8XwcHjch-k7ua0k6n/view?usp=drive_link |
 
