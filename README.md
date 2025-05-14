@@ -30,7 +30,7 @@ Hello. This is a compiled list of books and dictionaries that teach the Oromo la
 | Learn to Read and Write Afaan Oromo | https://drive.google.com/file/d/1yfbjqEmEBwa8BtUy6n8pTaQ8ged7GDsT/view?usp=drive_link |
 | Afaan Oromo: A Guide to Speaking The Language of the Oromo People | https://drive.google.com/file/d/1FgRGIdv-1sUZmnfxnJVlt1_9OauwBJBO/view?usp=drive_link |
 | An Elementary and Practical Grammar of The Galla or Oromo | https://drive.google.com/file/d/19KoHtM7JZ3SB56mr5ntBLYeadzuJf8qH/view?usp=drive_link |
-| Oromo Newspaper Reader,  Grammar Sketch and Lexicon | https://drive.google.com/file/d/1ar8JVYWK3NLDYPHkQeRZXP-OyNP10xQP/view?usp=sharing |
+| Oromo Newspaper Reader,  Grammar Sketch and Lexicon | https://drive.google.com/file/d/1HBXMeVIO7NijTxtNfdUKwAEGnHvi_GN5/view?usp=sharing |
 
 
 ## Language Overviews
