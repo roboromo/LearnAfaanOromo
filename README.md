@@ -1,6 +1,6 @@
 # Resources for Oromo Learners
 
-Hello. This is a compiled list of books and dictionaries that teach the Oromo language. Some of them date all the way back to the 19th century. The google drive links to each book can be found here in the read me file. Otherwise, feel free to clone the repository and store all the resources all at once.
+Hello. This is a compiled list of books and dictionaries that teach the Oromo language. Some of them date all the way back to the 19th century. The google drive links to each book can be found here in the read me file. Otherwise, feel free to clone the repository and store all the resources all at once. All the resources can be found here: [roboromo.github.io/learnafaanoromo](https://roboromo.github.io/LearnAfaanOromo/)
 
 ## Dictionaries
 
